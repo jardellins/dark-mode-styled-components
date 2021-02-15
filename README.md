@@ -32,3 +32,5 @@ Esse projeto foi desenvolvido com a seguinte Stack
 
 <br/>
 <a id="overview"></a>
+
+![Captura de Tela_select-area_20210215201310](https://user-images.githubusercontent.com/44972197/108001178-83c90b80-6fca-11eb-8464-cec6e5ccdfc7.gif)
