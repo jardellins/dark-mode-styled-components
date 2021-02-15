@@ -34,3 +34,5 @@ Esse projeto foi desenvolvido com a seguinte Stack
 <a id="overview"></a>
 
 ![Captura de Tela_select-area_20210215201310](https://user-images.githubusercontent.com/44972197/108001178-83c90b80-6fca-11eb-8464-cec6e5ccdfc7.gif)
+
+![Captura de Tela_select-area_20210215201346](https://user-images.githubusercontent.com/44972197/108001331-e7533900-6fca-11eb-9c5d-abea0b907532.gif)
