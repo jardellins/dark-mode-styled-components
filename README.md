@@ -14,9 +14,8 @@
 
 ## :scroll: Sobre
 
-O projeto tem como objetivo adicionar o temas para uma aplicação React, onde podemos modificar para os temas Light e Dark atraves de um botão na tela. 
-Nesta projeto estamos utilizando a API do GitHub para criar uma aplicação Web. A ideia foi desenvolvida pela :rocket: [Rocketseat](https://rocketseat.com.br/) 
-e foi colocado em prática outros conceitos para podemos implemtar o Dark Mode na aplicação.
+O projeto tem como objetivo consultar repositórios do GitHub para salvar na aplicação e consultar todas as suas Issues, o código teve como base o projeto da 
+:rocket: [Rocketseat](https://rocketseat.com.br/) e como um adicionau ao projeto foi implementado o tema Dark na aplicação, onde podemos alterar para os temas Light e Dark. Para a modificação do tema foi utilizado os conceitos de React, Context API e Sryled Components, desta forma todas as estilizações podem ser feitas em arquivos separados sem alterar o código em outros arquivos.
 
 <br/>
 <a id="tecnologias"></a>
