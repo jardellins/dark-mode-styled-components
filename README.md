@@ -16,7 +16,7 @@
 ## :scroll: Sobre
 
 O projeto tem como objetivo consultar repositórios do GitHub para salvar na aplicação e consultar todas as suas Issues, o código teve como base o projeto da 
-:rocket: [Rocketseat](https://rocketseat.com.br/) e como um adicionau ao projeto foi implementado o tema Dark na aplicação, onde podemos alterar para os temas Light e Dark. Para a modificação do tema foi utilizado os conceitos de React, Context API e Sryled Components, desta forma todas as estilizações podem ser feitas em arquivos separados sem alterar o código em outros arquivos.
+:rocket: [Rocketseat](https://rocketseat.com.br/) e como uma melhoria ao projeto foi implementado o tema Dark na aplicação, onde podemos alterar para os temas Light e Dark. Para a modificação do tema foi utilizado os conceitos de React, Context API e Sryled Components, desta forma todas as estilizações podem ser feitas em arquivos separados sem alterar o código em outros arquivos.
 
 <br/>
 <a id="tecnologias"></a>
@@ -36,6 +36,8 @@ Esse projeto foi desenvolvido com a seguinte Stack
 ## Iniciando a aplicação
 
 ```sh
+yarn install
+
 yarn start
 ```
 
