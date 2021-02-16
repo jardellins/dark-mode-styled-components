@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com a seguinte Stack
 <br/>
 <a id="iniciando"></a>
 
-###Iniciando a aplicação
+## Iniciando a aplicação
 
 ```sh
 yarn start
