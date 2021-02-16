@@ -1,5 +1,3 @@
-import logo from '../../assets/github-background.svg'
-
 export default {
     title: 'light',
 
@@ -33,6 +31,4 @@ export default {
 
         liInfoSpan: '#6c6c80',
     },
-
-    img: logo,
 }

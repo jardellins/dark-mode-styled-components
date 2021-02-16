@@ -34,7 +34,5 @@ declare module 'styled-components' {
     
             liInfoSpan: string,
         }
-
-        img: string,
     }
 }
